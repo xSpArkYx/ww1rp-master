@@ -1,4 +1,6 @@
-Example Schema
+World War 1 RP
 =============
 
-This is an example schema that should show the basics of how schemas are made with NutScript. Simply make a folder called 'sample' in the gamemodes/ folder with 'nutscript' and add this to your server's startup line: +gamemode sample
+I will put a more detailed description later. For now, install it and blah blah blah done. Thanks.
+
+
