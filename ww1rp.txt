@@ -1,0 +1,7 @@
+"WW1 Military Roleplay"
+{
+	"base"		"nutscript"
+	"title"		"WW1 Military Roleplay"
+	"author"	"SpArkY"
+	"menusystem" "1"
+}
